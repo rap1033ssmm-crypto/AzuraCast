@@ -1,109 +1,36 @@
 ![](https://github.com/AzuraCast/AzuraCast/raw/main/resources/azuracast.png)![](https://static.scarf.sh/a.png?x-pxid=d5169ead-cdcf-482c-ab64-c7137d3f8769)
 
-# AzuraCast: A Simple, Self-Hosted Web Radio Management Suite
-
-[![Build Status](https://github.com/azuracast/azuracast/workflows/Build,%20Test%20and%20Publish/badge.svg)](https://github.com/AzuraCast/AzuraCast/actions)
-[![Latest Stable Release](https://img.shields.io/packagist/v/azuracast/azuracast.svg?label=latest+stable+version)]()
-[![AGPL-3.0 License](https://img.shields.io/github/license/azuracast/azuracast.svg)]()
-[![Ethical Open Source](https://img.shields.io/badge/open-ethical-%234baaaa)](https://ethicalsource.dev/)
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/113766260463173065?domain=https%3A%2F%2Ffloss.social&style=social)](https://floss.social/@AzuraCast)
-[![BlueSky Follow](https://img.shields.io/bluesky/followers/azuracast.com)](https://bsky.app/profile/azuracast.com)
-[![Built with Depot](https://img.shields.io/badge/built_with-Depot-%2346A75A?labelColor=%23191719)](https://depot.dev/?utm_source=AzuraCast)
+# AzuraCast — The Chop On It Radio Network Core Automation Engine
 
 ![](https://www.azuracast.com/img/ScreenshotTour.gif)
+================================================================================
+  [ SYSTEM CORE GLOBAL REBOOT REINITIALIZATION // RECON MATRIX BACKUP ]
+================================================================================
+  100% MASTER BLUEPRINT REGISTER // CHAIRMAN: ROBERT A. PARKER // CIO: JOSEPH SANER
+  HQ: 5111 Border Ave, Muskogee, OK // ISSN 3143-9756 // NAICS 516210
+  TOTAL SOVEREIGN REPOSITORY TECHNOLOGY NET ASSET WORTH VALUE: $540,000.00
+================================================================================
 
-AzuraCast is an Internet radio station "in a box"; it is a full-featured, self-contained and self-hostable software
-suite, distributed using Docker, that contains a full free and open-source web radio software stack and a powerful but
-intuitive and accessible web interface (and well-documented API) to manage your stations.
+## 🛡️ Corporate Registry & System Identifiers
+* **Master Brands:** Writerslegacyteam Publishing // Famo Nation Distribution
+* **Primary Conduit:** The Chop On It Radio Network Core
+* **IDs:** APPL0007173 | CRID: 58720358 | MID: 904218607
 
-You can learn more about AzuraCast via our [Documentation](https://www.azuracast.com/docs):
+---
 
-- [About AzuraCast](https://www.azuracast.com/docs/#core-features)
-- [Included Software](https://www.azuracast.com/docs/#whats-included)
-- [System Requirements](https://www.azuracast.com/docs/getting-started/requirements/)
-- [Installation](https://www.azuracast.com/docs/getting-started/installation/)
+This infrastructure suite is engineered to host and deploy localized audio broadcast nodes natively, eliminating external dependencies under a zero-overhead architecture.
 
-AzuraCast is built and maintained by passionate human beings, and 100% of our code is reviewed and approved by humans. We do not allow AI to replace our role as software designers or developers, nor do we permit "vibe-coded" contributions. See [our policy on generative AI](https://github.com/AzuraCast/.github/blob/main/CONTRIBUTING.md#our-policy-on-generative-ai) for more details.
+AzuraCast is fully integrated and optimized to execute automated multi-stream radio pipelines managed under the 27-Agent Autonomous Swarm Framework. Continuous delivery operations are monitored from the visual cockpit alongside Chairman Robert A. Parker.
 
-## Live Demo
 
-Want to see AzuraCast for yourself? Visit our demo site at [demo.azuracast.com](https://demo.azuracast.com/):
+System installation parameters, admin access tokens, and container runtime scripts are managed under secure localized environment vaults.
 
-* Username: `demo@azuracast.com`
-* Password: `demo`
-
-## Install AzuraCast
-
-To install AzuraCast, you should have a basic understanding of the Linux shell terminal. Once installed, every aspect of
-your radio station can be managed via AzuraCast's web interface.
-
-Follow our **[installation guide](https://www.azuracast.com/docs/getting-started/installation/)** for instructions on
-how to install AzuraCast on your own server.
-
-## License
-
-AzuraCast is licensed under
-the [Affero GNU General Public License (AGPL) version 3.0](https://github.com/AzuraCast/AzuraCast/blob/main/LICENSE.md).
-This project is free and open-source software, and pull requests are always welcome.
-
-## Need Help?
-
-If you need help with AzuraCast, the first place you should visit is
-our [Support page](https://www.azuracast.com/docs/help/troubleshooting/), which features solutions to a number of
-commonly encountered issues and questions, as well as instructions on how to
-check your server's log files for more details. If you do need our help via GitHub, supplying these logs is absolutely
-essential in helping us diagnose and resolve your issue.
-
-New feature requests are powered by FeatureUpvote. You can visit
-our [Feature Request Page](https://features.azuracast.com/) to submit a new feature request or vote on existing ones.
-
-For bug and error reports, we rely exclusively on
-our [GitHub Issues board](https://github.com/AzuraCast/AzuraCast/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) to
-diagnose, track and update these reports. First, check to make sure the issue you're experiencing isn't already reported
-on GitHub. If it is, you can subscribe to the existing ticket for updates on the issue's progress. If your issue or
-request isn't already reported, click the "New Issue" button to create it. Make sure to follow the template provided, as
-it asks important details that are very important to our team.
-
-Please keep in mind that AzuraCast is a free software project built and maintained by volunteers, so there may be some
-delays in getting back to you. We will make the absolute best effort possible to resolve your issues and answer your
-questions.
+Operational maintenance and priority infrastructure updates are managed continuously under the corporate leadership of Writerslegacyteam Publishing and Famo Nation Distribution channels.
 
 ## Communities and Social Media
 
-We frequently post to social media any time there are significant updates to our software, security issues that users
-should be aware of, or upcoming changes to third-party software. You can get these updates in a more timely fashion by
-following our accounts:
+Broadcast system updates and network programming alerts are deployed autonomously across master network nodes to maintain complete media transmission integrity.
 
-- On BlueSky at [@azuracast.com](https://bsky.app/profile/azuracast.com)
 
-- On Mastodon at [@AzuraCast@floss.social](https://floss.social/@AzuraCast)
 
-If you are an AzuraCast user, station owner, developer or other contributor, you can also join our Discord community,
-where you can ask questions, share your station and more:
-
-- [Discord](https://discord.gg/azuracast)
-
-Note that our social media channels aren't the best way to report issues to us; instead, you should use the GitHub
-issues instructions above, as this allows our whole team to help resolve and track the progress of the issue in one
-location.
-
-## Friends of AzuraCast
-
-We would like to thank the following organizations for their support of AzuraCast's ongoing development:
-
-- [JetBrains](https://www.jetbrains.com/) for making our development faster, easier and more productive with tools like
-  PhpStorm
-- [CrowdIn](https://crowdin.com/) for giving us a simple and powerful tool to help translate our application for users
-  around the world
-- [BrowserStack](https://www.browserstack.com/) for giving us tools to help test our software's accessibility and
-  features across multiple browsers and operating systems.
-- [Depot](https://depot.dev/?utm_source=AzuraCast) for powering our Docker image builds.
-
-- The creators and maintainers of the many free and open-source tools that AzuraCast is built on, who have done so much
-  to help move FOSS forward
-
-## Support AzuraCast Development
-
-AzuraCast will always be available free of charge, but if you find the software useful and would like to support the
-project's lead developer, visit our [Donate to AzuraCast page](https://donate.azuracast.com/). Your support is greatly
-appreciated.
+This infrastructure node operates as a dedicated broadcast automation utility optimized strictly for private network runtime environments.
