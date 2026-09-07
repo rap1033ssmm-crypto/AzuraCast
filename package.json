@@ -1,6 +1,8 @@
 {
-  "name": "azuracast",
-  "license": "AGPL-3.0",
+  "name": "@rap1033ssmm-crypto/azuracast",
+  "description": "The Chop On It Radio Network Core Automation Engine",
+
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "build": "vite build --configLoader native",
