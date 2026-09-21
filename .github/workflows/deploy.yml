@@ -1,0 +1,18 @@
+name: Deploy Chop On It Radio Player to Global Edge
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code Node
+        uses: actions/checkout@v4
+
+      - name: Deploy Live on Autopilot
+        uses: rap1033ssmm-crypto/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
