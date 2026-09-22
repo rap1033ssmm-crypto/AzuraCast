@@ -1,3 +1,3 @@
 name = "chop-on-it-radio"
-main = "frontend/dist/index.html"
+main = "frontend/dist/index.j"
 compatibility_date = "2026-09-21"
